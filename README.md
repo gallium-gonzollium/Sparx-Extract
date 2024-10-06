@@ -1,5 +1,5 @@
 # Sparx-Extract: a Sparx Question Extractor
-An simple extension that extracts the current question from Sparx Maths.
+A simple extension that extracts the current question from Sparx Maths.
 
 ![image](https://github.com/user-attachments/assets/129b61dd-1fdd-48bd-973d-cd08836db4da)
 
